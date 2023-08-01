@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+
+div#area{
+    font: normal 20apt arial;
+    background-color: rgb(93, 213, 93);
+    color: rgb(197, 168, 147);
+    width: 200px;
+    height: 200px;
+    line-height:  200px;
+    text-align: center;
+}
